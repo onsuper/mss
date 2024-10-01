@@ -14,5 +14,4 @@ docker run
 mss
 ```
 
-默认加密：chacha20-ietf-poly1305
-默认密码：bWFpbDoyODIxNTYyNjhAcXEuY29t
+密码和加密方式都有默认值，在运行容器的时候显示
